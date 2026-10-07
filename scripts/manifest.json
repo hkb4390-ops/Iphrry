@@ -1,0 +1,87 @@
+{
+  "short_name": "Crichrry",
+  "name": "Crichrry",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/Dz1FXztx/file-00000000112082088dbc45fc024a2c70.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/Dz1FXztx/file-00000000112082088dbc45fc024a2c70.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/Dz1FXztx/file-00000000112082088dbc45fc024a2c70.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/Dz1FXztx/file-00000000112082088dbc45fc024a2c70.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/Dz1FXztx/file-00000000112082088dbc45fc024a2c70.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/Dz1FXztx/file-00000000112082088dbc45fc024a2c70.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/Dz1FXztx/file-00000000112082088dbc45fc024a2c70.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/Dz1FXztx/file-00000000112082088dbc45fc024a2c70.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/Dz1FXztx/file-00000000112082088dbc45fc024a2c70.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/Dz1FXztx/file-00000000112082088dbc45fc024a2c70.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/Dz1FXztx/file-00000000112082088dbc45fc024a2c70.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://i.postimg.cc/Dz1FXztx/file-00000000112082088dbc45fc024a2c70.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "id": "/",
+  "display": "standalone",
+  "theme_color": "#07090d",
+  "background_color": "#05070b",
+  "description": "Smartcric is your go-to cricket streaming platform, offering high-quality streaming of major cricket tournaments, including the IPL, ICC events, and T20 leagues.",
+  "categories": [
+    "sports"
+  ],
+  "dir": "auto",
+  "orientation": "any",
+  "related_applications": [
+    {
+      "platform": "webapp",
+      "url": "../scripts/manifest.json"
+    }
+  ],
+  "prefer_related_applications": false
+}
